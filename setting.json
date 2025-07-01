@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "python.createEnvironment.trigger": "off",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily" : "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 24,
+    "editor.autoIndent": "advanced",
+    "editor.snippetSuggestions": "bottom",
+    
+    
+
+    "intelephense.format.enable": true,
+    "intelephense.completion.triggerParameterHints": true,
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "intelephense.completion.insertUseDeclaration": true,
+    "intelephense.trace.server": "messages",
+}
